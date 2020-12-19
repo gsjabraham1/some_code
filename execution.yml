@@ -1,0 +1,10 @@
+---
+execution
+-concurrency: 50
+hold-for: 30
+ramp-up: 2m
+
+secenario: choose flight
+scenarios:
+choose flight:
+requests
